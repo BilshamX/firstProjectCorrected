@@ -1,0 +1,63 @@
+nav a {
+	text-align: center;
+	text-decoration: none;
+	padding: 20px;
+	color: white;
+} 
+nav {
+	text-align: center;
+
+
+}
+.nav1 {
+	margin-right: 1070px;
+	font-size: 40px;
+	margin-top: 10px;
+
+
+
+
+}
+.nav2{
+	position: absolute;
+	margin-left: 700px;
+	margin-top: -30px;
+
+
+}
+
+.link{
+	margin-left: 30px;
+}
+.name{
+	margin-left:90px;
+	text-align: center;
+	margin-top: 150px;
+	color:white;
+	padding: 10px;
+}
+button{
+	padding: 20px;
+	margin: 20px;
+	border-radius: 20px;
+	background: transparent;
+	color: whitesmoke;
+	border: 2px solid blueviolet;
+}
+button:hover{
+	background-color: blueviolet;
+}
+h1{
+	font-size: 70px;
+	margin-bottom: 10px;
+	font-family: sans-serif;
+}
+.nav2 a:hover{
+	color: white;
+	/*font-size: 20px;*/
+	background-color:blueviolet ;
+	border-radius: 20px;
+}
+span{
+	color: blueviolet;
+}
